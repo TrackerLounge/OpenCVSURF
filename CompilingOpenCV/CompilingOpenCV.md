@@ -233,5 +233,12 @@ I will remove the pre-compiled version of opencv
 
 Click Apply and Close.
 
+We test the code with two different views of the same track.
 
-<img src='/matches.png' width=800>
+<img src='https://github.com/TrackerLounge/OpenCVSURF/blob/master/CompilingOpenCV/LF_20in_Stride_Wet_Sand_Binary_Small.jpg' width=800>
+
+<img src='https://github.com/TrackerLounge/OpenCVSURF/blob/master/CompilingOpenCV/LF_20in_Stride_Wet_Sand_Binary_Small_Rotated_and_Scaled.jpg' width=800>
+
+Here are the calculated matching SURF descriptors
+
+<img src='https://github.com/TrackerLounge/OpenCVSURF/blob/master/CompilingOpenCV/matches.png' width=800>
