@@ -242,3 +242,13 @@ We test the code with two different views of the same track.
 Here are the calculated matching SURF descriptors
 
 <img src='https://github.com/TrackerLounge/OpenCVSURF/blob/master/CompilingOpenCV/matches.png' width=800>
+
+If we apply the code from:
+[OpenCV Tutorial - Features2D + Homography to find a known object](https://docs.opencv.org/4.4.0/d7/dff/tutorial_feature_homography.html)
+
+We get:
+
+<img src='https://github.com/TrackerLounge/OpenCVSURF/blob/master/CompilingOpenCV/SURFGoodMatchesAndObjectDetection.jpg' width=800>
+
+Which is an excellent result!
+
