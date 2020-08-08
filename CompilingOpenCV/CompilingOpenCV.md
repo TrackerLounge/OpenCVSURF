@@ -266,7 +266,7 @@ Again, these are good results.
 
 If we try to compare a track to a flipped track (simulating left foot comparing to right foot), we get:
 
-<img src='https://github.com/TrackerLounge/OpenCVSURF/blob/master/NoMatchOnALeftTrackToRightTrackInSand.jpg' width=1800>
+<img src='https://github.com/TrackerLounge/OpenCVSURF/blob/master/CompilingOpenCV/NoMatchOnALeftTrackToRightTrackInSand.jpg' width=1800>
 
 No match detected. This is a good result in my mind as it shows that we can tell the difference between right and left foot.
 
