@@ -260,7 +260,7 @@ What about on original sand images when the track has good contrast
 
 We get:
 
-<img src='https://github.com/TrackerLounge/OpenCVSURF/blob/master/SURFGoodMatchesAndObjectDetectionOnOriginalSandImage.jpg' width=800>
+<img src='https://github.com/TrackerLounge/OpenCVSURF/blob/master/CompilingOpenCV/SURFGoodMatchesAndObjectDetectionOnOriginalSandImage.jpg' width=1800>
 
 Again, these are good results.
 
