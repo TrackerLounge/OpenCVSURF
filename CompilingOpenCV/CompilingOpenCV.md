@@ -252,3 +252,16 @@ We get:
 
 Which is an excellent result!
 
+What about on original sand images when the track has good contrast
+
+<img src='https://github.com/TrackerLounge/OpenCVSURF/blob/master/CompilingOpenCV/track00.jpg' width=800>
+
+<img src='https://github.com/TrackerLounge/OpenCVSURF/blob/master/CompilingOpenCV/track00_scaled_rotated.jpg' width=800>
+
+We get:
+
+<img src='https://github.com/TrackerLounge/OpenCVSURF/blob/master/SURFGoodMatchesAndObjectDetectionOnOriginalSandImage.jpg' width=800>
+
+Again, these are good results.
+
+
