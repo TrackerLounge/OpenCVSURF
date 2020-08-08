@@ -237,6 +237,10 @@ We test the code with two different views of the same track.
 
 <img src='https://github.com/TrackerLounge/OpenCVSURF/blob/master/CompilingOpenCV/LF_20in_Stride_Wet_Sand_Binary_Small.jpg' width=800>
 
+For details on how this image was created see:
+
+[FFT - Fast Fourier Transform and Edge Detection](https://github.com/TrackerLounge/TrackingAndEdgeDetection/blob/master/FastFourierTransformAndEdgeDetection.md)
+
 <img src='https://github.com/TrackerLounge/OpenCVSURF/blob/master/CompilingOpenCV/LF_20in_Stride_Wet_Sand_Binary_Small_Rotated_and_Scaled.jpg' width=800>
 
 Here are the calculated matching SURF descriptors
