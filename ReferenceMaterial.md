@@ -1,12 +1,18 @@
+[Home Page](https://github.com/TrackerLounge/Home)
+
+[OpenCV SURF](https://github.com/TrackerLounge/OpenCVSURF)
+
+
+# Getting and Running OpenCV in Eclipse
 [Download OpenCV](https://opencv-java-tutorials.readthedocs.io/en/latest/01-installing-opencv-for-java.html)
 
 [Using OpenCV in Eclipse](https://opencv-java-tutorials.readthedocs.io/en/latest/02-first-java-application-with-opencv.html)
 
-#Introduction
+# Introduction
 The goal of this project is to learn more about SURF object identification in an image.
 I'd like to see how this works on different types of track images.
 
-#Reference Material:
+# Reference Material:
 [Download OpenCV pre-bundled](https://opencv.org/releases/)
 
 [Build OpenCV from Source for Java](https://delabassee.com/OpenCVJava/)
