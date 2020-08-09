@@ -2,6 +2,8 @@
 
 [OpenCV SURF](https://github.com/TrackerLounge/OpenCVSURF)
 
+[ReferenceMaterial](https://github.com/TrackerLounge/OpenCVSURF/blob/master/ReferenceMaterial.md)
+
 # Youtube Video
 [![Alt text](https://github.com/TrackerLounge/OpenCVSURF/blob/master/CompilingOpenCV/splashScreen_small.jpg)](https://www.youtube.com/watch?v=TP2QohEGAl4)
 
