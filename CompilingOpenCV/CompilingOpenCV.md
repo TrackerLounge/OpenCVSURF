@@ -64,11 +64,13 @@ I have a number of Java instances on my machine. Some programs like Oracle DB co
 
 Your java install location is likely to be different than what I have.
 
+```Content of build_opencv.bat
 Set JAVA_HOME= C:\opt\el\java\jdk1.8.0_101
 
 set PATH=C:\opt\el\java\jdk1.8.0_101\bin;%PATH%
 
 java -version
+```
 
 If you know you only have one instance of Java installed on your machine, you may not need to set the java version. But it is a good idea to check. 
 
@@ -110,10 +112,11 @@ We now have CMAKE and related software installed on the machine.
 We can add the CMAKE command to our build_opencv.bat to compile and build the code.
 
 Here is what we start with:
-
+```Content of build_opencv.bat
 cmake -S opencv/ -B build/
 
 cmake --build build/
+```
 
 This should populate our build folder with the code and then compile it.
 
@@ -160,6 +163,7 @@ We haven't actually run the CMAKE command.
 Let's do that now.
 
 The contents of build_opencv.bat are now:
+```Content of build_opencv.bat
 Set JAVA_HOME= C:\opt\el\java\jdk1.8.0_101
 
 set PATH=C:\opt\el\java\jdk1.8.0_101\bin;%PATH%
@@ -169,6 +173,7 @@ java -version
 cmake -DCMAKE_GENERATOR_PLATFORM=x64 -DBUILD_SHARED_LIBS=OFF -DOPENCV_EXTRA_MODULES_PATH=D:/opt/opencv/workspace/opencv_contrib/modules -DOPENCV_ENABLE_NONFREE=ON -S opencv/ -B build/
 
 cmake --build build/
+```
 
 We will open a DOS prompt by typing CMD and then type:
 build_opencv.bat and hit enter.
