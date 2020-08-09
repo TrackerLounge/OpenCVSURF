@@ -6,3 +6,5 @@ Experiments to run and evaluate opencv SURF feature descriptions on tracks
 
 [Compile OpenCV and OpenCV_Contrib for Java to run SURF Feature Descriptions](https://github.com/TrackerLounge/OpenCVSURF/blob/master/CompilingOpenCV/CompilingOpenCV.md)
 
+[Resources](https://github.com/TrackerLounge/OpenCVSURF/blob/master/Resources.md)
+- Here is a list of webpages and youtube videos that I reviewed while working on learning to compile and run OpenCV and OpenCV_Contrib SURF feature descriptions.
