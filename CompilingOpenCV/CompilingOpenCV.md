@@ -240,8 +240,7 @@ I will remove the pre-compiled version of opencv
 
 Click Apply and Close.
 
-We test the code with two different views of the same track using the code listed at
-https://docs.opencv.org/4.4.0/d5/dde/tutorial_feature_description.html
+We test the code with two different views of the same track 
 
 <img src='https://github.com/TrackerLounge/OpenCVSURF/blob/master/CompilingOpenCV/LF_20in_Stride_Wet_Sand_Binary_Small.jpg' width=800>
 
@@ -251,7 +250,8 @@ For details on how this image was created see:
 
 <img src='https://github.com/TrackerLounge/OpenCVSURF/blob/master/CompilingOpenCV/LF_20in_Stride_Wet_Sand_Binary_Small_Rotated_and_Scaled.jpg' width=800>
 
-Here are the calculated matching SURF descriptors
+Here are the calculated matching SURF descriptors using the code listed at
+[Feature Description](https://docs.opencv.org/4.4.0/d5/dde/tutorial_feature_description.html)
 
 <img src='https://github.com/TrackerLounge/OpenCVSURF/blob/master/CompilingOpenCV/matches.png' width=800>
 
