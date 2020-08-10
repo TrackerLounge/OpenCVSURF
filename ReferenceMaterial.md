@@ -27,6 +27,9 @@ I'd like to see how this works on different types of track images.
 
 [Github opencv_contrib](https://github.com/opencv/opencv_contrib)
 
+[OpenCV Basics - 11 - Building OpenCV + Contribute with CMake](https://www.youtube.com/watch?v=fIpTks0G2m0)
+I learned about this video after I had things working. However, I think it would have been helpful to see how CMAKE_GUI can be used to build C++ libraries for C++ rather than Java.
+
 [Building OpenCV_Contrib gotchas in Python](https://towardsdatascience.com/how-to-install-opencv-and-extra-modules-from-source-using-cmake-and-then-set-it-up-in-your-pycharm-7e6ae25dbac5)
 
 [OpenCV SURF Tutorial In Python](https://docs.opencv.org/master/df/dd2/tutorial_py_surf_intro.html)
