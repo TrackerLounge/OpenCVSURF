@@ -282,5 +282,7 @@ If we try to compare a track to a flipped track (simulating left foot comparing 
 
 No match detected. This is a good result in my mind as it shows that we can tell the difference between right and left foot.
 
+For more information on comparing images see:
 
+[TrackAndSoleComparison](https://github.com/TrackerLounge/TrackAndSoleComparison)
 
